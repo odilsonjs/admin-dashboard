@@ -24,42 +24,48 @@ This project is part of [The Odin Project](https://theodinproject.com)'s full st
 </details>
 
 ## Description
+
 A Simple Dashboard design built with HTML & CSS with,
-* Grid
-* Flexbox
-* And more of CSS's features
+
+- Grid
+- Flexbox
+- And more of CSS's features
 
 ## Design model
 
 ![design](./design/dashboard-project.png)
-  
+
 ## Built With
-* HTML
-* CSS
+
+- HTML
+- CSS
 
 ## What I Learned
-* Practical experience with CSS Grid
-* Grid `auto-fill` and `auto-fit`
-* Grid `minmax`
-* Grid item as a `flex` container
-* `Grid` and `Flex` practical usage exposure
-* CSS organization
-* Building one step at a time
-  
-## Acknowledgements
-* Icons from [Material Design Icons](https://materialdesignicons.com/)
-* Color palette from [Color Hunt](https://colorhunt.co/palette/222831393e4600adb5eeeeee)
-* [The Odin Project](https://theodinproject.com)
 
+- Practical experience with CSS Grid
+- Grid `auto-fill` and `auto-fit`
+- Grid `minmax`
+- Grid item as a `flex` container
+- `Grid` and `Flex` practical usage exposure
+- CSS organization
+- Building one step at a time
+
+## Acknowledgements
+
+- Icons from [Material Design Icons](https://materialdesignicons.com/)
+- Color palette from [Color Hunt](https://colorhunt.co/palette/222831393e4600adb5eeeeee)
+- [The Odin Project](https://theodinproject.com)
 
 [Move To Top](#Admin-Dashboard)
 
-
 ## Course Link
+
 https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard
 
 ## Live Preview
-https://odilsonjs.github.io/admin-dashboard/
+
+https://odilson-dev.github.io/admin-dashboard/
 
 ## GitHub Repos
-https://github.com/odilsonjs/admin-dashboard
+
+https://github.com/odilson-dev/admin-dashboard
